@@ -1,0 +1,9 @@
+chạy file authenticate.py trước nếu em có trình biên dịch
+nhập họ : Phan
+nhập tên đệm : Tue Tam
+Ngày sinh : 29/01
+
+nếu không có trình nhập thì chạy file HPBD.py 
+
+nếu tất cả đều không được thì anh livestream code nha <3
+Happy BirthDay Sister. 

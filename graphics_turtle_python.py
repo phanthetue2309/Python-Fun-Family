@@ -1,0 +1,17 @@
+from turtle import *
+
+print(pos())
+Pen()
+forward(90)
+left(60)
+forward(90)
+left(60)
+forward(90)
+left(60)
+forward(90)
+left(60)
+forward(90)
+left(60)
+forward(90)
+left(60)
+print(pos())
